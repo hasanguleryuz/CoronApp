@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244191678289",
+    "firebase_url": "https://coronapp-979ab.firebaseio.com",
+    "project_id": "coronapp-979ab",
+    "storage_bucket": "coronapp-979ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244191678289:android:30314ed84c5a7e94dc8d70",
+        "android_client_info": {
+          "package_name": "com.example.coronapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244191678289-gs64io1o87kvbdn21tam3ku1oomsuqd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD87G2JHtHIlxOipTWkB7nYeCLqbHzIac0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244191678289-gs64io1o87kvbdn21tam3ku1oomsuqd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
