@@ -1,5 +1,5 @@
 # CoronApp
-A program that provides information about the number of cases of corona virus by country.
+This app created by Hasan Güleryüz. A simple design was preferred as the design. Thhis program language is Turkish. This program that provides information about the number of cases of corona virus by country.
 
 Provides access to the case data of countries through the "Firebase" system. Data is taken instantly. Programming language is used as java.
 
